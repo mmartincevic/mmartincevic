@@ -19,6 +19,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unreal,c,cpp,python,git,github,html,css,bash,linux,vscode,windows,lua" />
+    <img src="https://skillicons.dev/icons?i=unreal,c,cpp,python,git,github,html,css,bash,linux,vscode,windows,lua,processing" />
   </a>
 </p>
