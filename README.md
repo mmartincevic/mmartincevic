@@ -15,7 +15,7 @@
 - C++ game start (game written in C++, using ECS custom written - will probably redo it) <a href="https://github.com/mmartincevic/GECS_new">GECS</a>
 - MySQL plugin to obfuscate fields (still work in progress) but a good example how to write plugins for MySQL <a href="https://github.com/mmartincevic/mysql-obfuscator">mysql obfuscator</a>
 - AIsnake (new project for playing with Neural networks, self learning snake game) <a href="https://github.com/mmartincevic/aisnake">AIsnake</a>
-- C++ chaos game / visual representation chaos game <a href="https://github.com/mmartincevic/chaosgame">Visual sorter</a>
+- C++ chaos game / visual representation chaos game <a href="https://github.com/mmartincevic/chaosgame">Chaos game</a>
 
 ## Skills
 
