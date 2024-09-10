@@ -7,7 +7,7 @@
 
 ## Projects
 
-- C++ Vulkan project boilerplate including GLM <a href="https://github.com/mmartincevic/cpp-vulkan-boilerplate">Vuklan boilerplate</a>
+- Vulkan project boilerplate including GLM <a href="https://github.com/mmartincevic/cpp-vulkan-boilerplate">Vuklan boilerplate</a>
 - C++ Visual sorter / visual representation of different sorting lagorithms <a href="https://github.com/mmartincevic/VisualSorter">Visual sorter</a>
 - C++ / SDL boilerplate (to kick start your projects, games in a second) <a href="https://github.com/mmartincevic/CppSDLBoilerplate">CppSDLBoilerplate</a>
 - Raycasting C++ <a href="https://github.com/mmartincevic/RayCaster"> RayCaster </a>
